@@ -15,4 +15,4 @@ Run `pip install -r requirements.txt` to install the required Python modules.
 
 ## Usage
 
-`> python keyword-counter.py -u http://www.example.com -kw apple orange banana 'citrus fruits'`
+`python keyword-counter.py -u http://www.example.com -kw apple orange banana 'citrus fruits'`
